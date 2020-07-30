@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/wp-admin" />
+      <path value="$PROJECT_DIR$/wp-includes" />
+      <path value="$PROJECT_DIR$/wp-content" />
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="beaver-university.local" id="880ef28f-d0f8-4471-9c80-6c02ffac76ec" name="Local" />
+    </servers>
+  </component>
+</project>
